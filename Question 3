@@ -1,0 +1,10 @@
+//Question 3
+int main()
+{
+    int i;
+    int arr = {1};
+    for (i = 0; i < 5; i++)
+        printf("%d", arr[i]);
+    return 0;
+}
+//The array is initialized as {1, 0, 0, 0, 0} (first element is 1, rest are 0).
